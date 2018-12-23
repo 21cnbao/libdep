@@ -15,3 +15,5 @@ you will see a diagram libdep.png, open it
 ~/libdep$ ls
 libdep-pic.py  libdep.png  README.md  symbol-dep.py
 ```
+The diagram is like:
+https://github.com/21cnbao/libdep/blob/master/example/libdep.png
