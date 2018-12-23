@@ -10,10 +10,10 @@ puts
 ```console
 $ ./libdep-pic.py /usr/lib/firefox/firefox
 ```
-you will see a diagram libdep.png, open it
+### you will see a diagram named libdep.png
 ```console
 ~/libdep$ ls
 libdep-pic.py  libdep.png  README.md  symbol-dep.py
 ```
-The diagram is like:
-https://github.com/21cnbao/libdep/blob/master/example/libdep.png
+### The diagram is like:
+![libdep](https://github.com/21cnbao/libdep/raw/master/example/libdep.png "Libraries Dependency")
